@@ -40,4 +40,8 @@ You can install these packages using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn joblib tkinter ttkthemes
 ```
 
+# SCREENSHOTS
+![Health Insurance Cost Prediction Model](https://raw.githubusercontent.com/sukhe3608/Health-Insurance-Cost-Prediction-Model/main/image.png)
+
+
 
