@@ -12,6 +12,16 @@ This project is a machine learning model designed to predict the cost of medical
 - GUI application for easy prediction using new data
 - Model saving and loading using Joblib
 
+## Installation
+
+To run the code in this repository, you need to have Python installed on your system along with the following libraries:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -28,3 +38,6 @@ Make sure you have Python installed on your system along with the following libr
 You can install these packages using pip:
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn joblib tkinter ttkthemes
+```
+
+
