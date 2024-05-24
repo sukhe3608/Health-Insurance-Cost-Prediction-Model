@@ -1,7 +1,5 @@
 # Medical Insurance Cost Prediction Model
 
-![Family Image](family-2073604_640.webp)
-
 ## Overview
 This project is a machine learning model designed to predict the cost of medical insurance. Using a dataset of patient data, we apply multiple regression techniques to train models and evaluate their performance. The model can predict insurance costs based on factors like age, gender, BMI, number of children, smoking status, and region.
 
